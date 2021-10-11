@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in School of Managemen, Jinan University (JNU), 2018
-* M.S. in JDept. Geography &Resource Managemen, 2019
+* M.S. in Dept. Geography & Resource Managemen, the Chinese University of Hong Kong (CUHK), 2019
 
 Work experience
 ======
